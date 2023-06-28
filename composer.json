@@ -1,0 +1,13 @@
+{
+    "name": "apolm01-006/sgva-trainer",
+    "description": "sgav",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Clases\\" : "./clases",
+            "Models\\" : "./models"
+        }
+    }
+
+}
