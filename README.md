@@ -1,3 +1,5 @@
+No se incluyen las carpeta VENDOR y DataTables.
+
 -- By Camilo Hernandez
                               
 CREATE DATABASE campuslands;
